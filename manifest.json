@@ -27,7 +27,8 @@
      "tabs",
      "activeTab",
      "downloads",
-     "downloads.open"     
+     "downloads.open",
+     "debugger"     
      ],
 
     "background": {
